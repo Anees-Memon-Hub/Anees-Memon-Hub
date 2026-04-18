@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Anees
 
-<!--
-**Anees-Memon-Hub/Anees-Memon-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student
+🧠 Interested in Artificial Intelligence and Machine Learning
+🚀 Currently learning by building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+* 🧠 Learning core concepts of AI & Machine Learning
+* 📊 Exploring data analysis using Python
+* ⚙️ Building small projects to strengthen fundamentals
+
+---
+
+## 🛠️ Tech Stack
+
+* Python
+* SQL (basic)
+* HTML
+* JAVA SCRIPT
+* CSS
+* JAVA
+* CPP
+* Git & GitHub
+
+---
+
+## 📌 Projects (In Progress)
+
+* 🧠 AI Personality Analysis System *(in development)*
+
+
+---
+
+## 🎯 Goals
+
+* Build practical AI-based projects
+* Improve problem-solving and coding skills
+* Contribute to real-world solutions
+
+---
+
+## 📫 Contact
+
+* Email: memonanees277@gmail.com
+
+---
+
+> “Focused on learning, building, and improving step by step.”
