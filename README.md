@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 * Python
-* SQL (basic)
+* SQL 
 * HTML
 * JAVA SCRIPT
 * CSS
