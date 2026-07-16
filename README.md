@@ -195,7 +195,7 @@ Python • Scikit-Learn • Pandas • Streamlit
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Anees-Memon-Hub/Anees-Memon-Hub/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
