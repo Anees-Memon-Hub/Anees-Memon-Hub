@@ -1,54 +1,82 @@
-# Hi 👋, I'm Anees
+````md
+<!-- ============================== -->
+<!--           HEADER               -->
+<!-- ============================== -->
 
-### Computer Science Student • AI & Machine Learning Enthusiast • Full Stack Developer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hey!%20I'm%20Anees%20👋&fontSize=50&fontAlignY=40&animation=fadeIn"/>
 
-I'm a Computer Science student passionate about building practical software and AI-powered applications. I enjoy solving real-world problems through software engineering, machine learning, and full-stack development while continuously improving my technical skills.
+<h1 align="center">Hi 👋 I'm Anees</h1>
+
+<h3 align="center">
+💻 Computer Science Student • 🤖 AI Enthusiast • 🚀 Full Stack Developer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Building+Projects+One+Commit+at+a+Time;Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;Always+Learning+Something+New+🚀" />
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 🚀 What I Build
+# 🚀 About Me
 
-I enjoy building projects that combine software engineering with intelligent systems, including:
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- 🤖 AI & Machine Learning applications
-- 🌐 Full Stack Web Applications
-- 🧩 Chrome Extensions
-- 💬 Real-time Communication Systems
-- 📊 Data Analysis & Automation Tools
+🎓 Computer Science student passionate about building software that solves real-world problems.
 
-My goal is to build software that is practical, scalable, and solves meaningful problems.
+💡 I enjoy combining software engineering with Artificial Intelligence to create practical applications.
+
+🛠️ Most of my learning happens through building projects rather than just watching tutorials.
+
+🌱 Currently exploring:
+
+- Artificial Intelligence
+- Machine Learning
+- Full Stack Development
+- OCR Systems
+- Data Analysis
+- Backend Engineering
+
+⚡ Fun Fact:
+
+> I believe the best way to learn is to build something that breaks... and then fix it.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+## 💻 Languages
 
-- Python
-- Java
-- C++
-- JavaScript
-- SQL
-- HTML5
-- CSS3
+<p>
 
-### Frameworks & Technologies
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,sql"/>
 
-- FastAPI
-- React
-- Vite
-- MongoDB
-- Socket.IO
-- JWT Authentication
-- Git & GitHub
+</p>
 
-### AI & Machine Learning
+## ⚙️ Frameworks & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,vite,fastapi,mongodb,git,github,vscode"/>
+
+</p>
+
+## 🤖 AI & Machine Learning
 
 - Scikit-learn
 - Pandas
 - NumPy
-- Tesseract OCR
 - Streamlit
+- Tesseract OCR
 - TF-IDF
 - Logistic Regression
 
@@ -56,93 +84,148 @@ My goal is to build software that is practical, scalable, and solves meaningful 
 
 # 🚀 Featured Projects
 
-## 📄 Extractify — Chrome OCR Extension
+## 🧩 Extractify
 
-A Chrome Extension that extracts text from screenshots and images using OCR.
+> Chrome Extension that extracts text from screenshots and images using OCR.
 
-**Highlights**
+✨ Features
 
-- Automatic OCR from uploaded images
-- Drag & Drop support
-- Clipboard image paste
-- Editable extracted text
-- Copy & Download functionality
-- Modern responsive UI
-- Built using JavaScript, Vite & Tesseract.js
+- 📷 OCR from images
+- 📋 Clipboard Paste
+- 📂 Drag & Drop
+- ✏️ Editable Output
+- 📥 Download Text
+- 📄 Copy to Clipboard
+- 🌐 Multi-language Support
+
+**Tech**
+
+JavaScript • Vite • HTML • CSS • Tesseract.js
 
 ---
 
-## 💬 ChatterBox — Real-Time Chat Application
+## 💬 ChatterBox
 
-A full-stack real-time chat platform built for collaborative communication.
+> A modern real-time chat application built using FastAPI and React.
 
-**Highlights**
+✨ Features
 
-- JWT Authentication
-- Secure REST APIs
-- Real-time messaging using Socket.IO
-- MongoDB Database
-- Group Chats
-- User Statistics Dashboard
-- FastAPI Backend
-- React Frontend
+- 🔐 JWT Authentication
+- 💬 Real-Time Messaging
+- 👥 Group Chats
+- 📊 Dashboard
+- 🌐 Socket.IO
+- ☁️ MongoDB Atlas
+- ⚡ FastAPI Backend
+
+**Tech**
+
+FastAPI • React • MongoDB • Socket.IO
 
 ---
 
 ## 🧠 AI Personality Analysis Engine
 
-A Machine Learning project that predicts personality and emotions from textual input.
+> Machine Learning application that predicts emotions and personality traits from text.
 
-**Highlights**
+✨ Features
 
-- Data preprocessing pipeline
-- TF-IDF feature extraction
-- Logistic Regression classifier
-- Emotion prediction
-- Streamlit interface
-- Python & Scikit-learn
+- 🧹 Data Preprocessing
+- 📊 TF-IDF Vectorization
+- 🤖 Logistic Regression
+- 😊 Emotion Prediction
+- 🌐 Streamlit Interface
+
+**Tech**
+
+Python • Scikit-Learn • Pandas • Streamlit
 
 ---
 
 # 🌱 Currently Learning
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- System Design
-- Software Architecture
+```text
+███████████████████░░░ 90%  Python
+
+████████████████░░░░░ 80%  Machine Learning
+
+███████████████░░░░░░ 75%  FastAPI
+
+██████████████░░░░░░░ 70%  React
+
+█████████████░░░░░░░░ 65%  Deep Learning
+```
 
 ---
 
-# 🎯 Goals
+# 📊 GitHub Analytics
 
-- Build production-quality AI applications
-- Contribute to open-source projects
-- Strengthen software engineering fundamentals
-- Explore Large Language Models (LLMs)
-- Become an AI Engineer
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 📈 GitHub Focus
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-I enjoy building projects that help me learn by solving real problems.
-
-Currently focusing on:
-
-- AI-powered applications
-- Full-stack development
-- OCR systems
-- Backend engineering
-- Machine Learning projects
+</p>
 
 ---
 
-# 📫 Connect With Me
+# 💻 Most Used Languages
 
-📧 **Email:** memonanees277@gmail.com
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-> *"Learning by building. Improving with every project."*
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+
+</p>
+
+---
+
+
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build production-quality AI applications
+- 🤖 Learn Deep Learning
+- 📚 Master Machine Learning
+- 🌐 Contribute to Open Source
+- 💼 Land an AI/Software Engineering Internship
+- ✨ Build projects that people actually use
+
+---
+
+
+
+
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+If you like my projects, consider giving them a ⭐
+
+Happy Coding! 🚀
+
+</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+````
