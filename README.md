@@ -16,11 +16,11 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=Anees-Memon-Hub&style=for-the-badge&color=blue" />
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Anees-Memon-Hub?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Anees-Memon-Hub?style=for-the-badge"/>
 
 </p>
 
