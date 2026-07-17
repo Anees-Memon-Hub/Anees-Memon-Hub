@@ -1,230 +1,237 @@
-<!-- ============================== -->
-<!--           HEADER               -->
-<!-- ============================== -->
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hey!%20I'm%20Anees%20👋&fontSize=50&fontAlignY=40&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4facfe,100:00f2fe&text=Anees%20Memon&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<h1 align="center">Hi 👋 I'm Anees</h1>
+# 👋 Hi, I'm Anees
 
-<h3 align="center">
-💻 Computer Science Student • 🤖 AI Enthusiast • 🚀 Full Stack Developer
-</h3>
+### 💻 Computer Science Student • 🤖 AI Engineer in Progress • 🚀 Full Stack Developer
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Building+Projects+One+Commit+at+a+Time;Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;Always+Learning+Something+New+🚀" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00F2FE&center=true&vCenter=true&width=750&lines=Building+AI+Projects;Creating+Full+Stack+Applications;Developing+Chrome+Extensions;Learning+Something+New+Everyday;Turning+Ideas+Into+Reality+🚀"/>
 
-<p align="center">
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Anees-Memon-Hub&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=Anees-Memon-Hub&style=for-the-badge&color=blue"/>
 
-<img src="https://img.shields.io/github/followers/Anees-Memon-Hub?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Anees-Memon-Hub?style=for-the-badge&logo=github"/>
 
 <img src="https://img.shields.io/github/stars/Anees-Memon-Hub?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 Computer Science student passionate about building software that solves real-world problems.
+```python
+class Anees:
 
-💡 I enjoy combining software engineering with Artificial Intelligence to create practical applications.
+    education = "BS Computer Science"
 
-🛠️ Most of my learning happens through building projects rather than just watching tutorials.
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Backend Development",
+        "Chrome Extensions",
+        "Software Engineering"
+    ]
 
-🌱 Currently exploring:
+    currently_learning = [
+        "Machine Learning",
+        "Deep Learning",
+        "FastAPI",
+        "React",
+        "System Design"
+    ]
 
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- OCR Systems
-- Data Analysis
-- Backend Engineering
+    motto = "Learn → Build → Improve → Repeat"
+```
 
-⚡ Fun Fact:
+💡 I enjoy building software that solves real-world problems.
 
-> I believe the best way to learn is to build something that breaks... and then fix it.
+🚀 Most of my learning comes from creating projects.
+
+🎯 My goal is to become an AI Engineer.
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Currently Building
 
-## 💻 Languages
+<table>
 
-<p>
+<tr>
+
+<td width="50%">
+
+### 🧩 Extractify
+
+Chrome Extension that extracts text from screenshots using OCR.
+
+**Tech**
+
+JavaScript • Vite • Tesseract.js
+
+</td>
+
+<td width="50%">
+
+### 💬 ChatterBox
+
+Modern real-time chat application.
+
+**Tech**
+
+FastAPI • React • MongoDB
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🧠 AI Personality Analysis
+
+Predict emotions from text using Machine Learning.
+
+**Tech**
+
+Python • Scikit-learn
+
+</td>
+
+<td width="50%">
+
+### 🚀 More Coming Soon...
+
+Always building something new.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,sql"/>
 
-</p>
+<br><br>
 
-## ⚙️ Frameworks & Tools
-
-<p>
+### Frameworks & Tools
 
 <img src="https://skillicons.dev/icons?i=react,vite,fastapi,mongodb,git,github,vscode"/>
 
-</p>
+<br><br>
 
-## 🤖 AI & Machine Learning
+### AI & Machine Learning
 
-- Scikit-learn
-- Pandas
-- NumPy
-- Streamlit
-- Tesseract OCR
-- TF-IDF
-- Logistic Regression
+<img src="https://skillicons.dev/icons?i=python"/>
+
+Scikit-Learn • Pandas • NumPy • Streamlit • Tesseract OCR
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
-
-## 🧩 Extractify
-
-> Chrome Extension that extracts text from screenshots and images using OCR.
-
-✨ Features
-
-- 📷 OCR from images
-- 📋 Clipboard Paste
-- 📂 Drag & Drop
-- ✏️ Editable Output
-- 📥 Download Text
-- 📄 Copy to Clipboard
-- 🌐 Multi-language Support
-
-**Tech**
-
-JavaScript • Vite • HTML • CSS • Tesseract.js
-
----
-
-## 💬 ChatterBox
-
-> A modern real-time chat application built using FastAPI and React.
-
-✨ Features
-
-- 🔐 JWT Authentication
-- 💬 Real-Time Messaging
-- 👥 Group Chats
-- 📊 Dashboard
-- 🌐 Socket.IO
-- ☁️ MongoDB Atlas
-- ⚡ FastAPI Backend
-
-**Tech**
-
-FastAPI • React • MongoDB • Socket.IO
-
----
-
-## 🧠 AI Personality Analysis Engine
-
-> Machine Learning application that predicts emotions and personality traits from text.
-
-✨ Features
-
-- 🧹 Data Preprocessing
-- 📊 TF-IDF Vectorization
-- 🤖 Logistic Regression
-- 😊 Emotion Prediction
-- 🌐 Streamlit Interface
-
-**Tech**
-
-Python • Scikit-Learn • Pandas • Streamlit
-
----
-
-# 🌱 Currently Learning
+# 📈 Current Focus
 
 ```text
-███████████████████░░░ 90%  Python
+🤖 Machine Learning        █████████████░░░ 85%
 
-████████████████░░░░░ 80%  Machine Learning
+⚡ FastAPI                 ████████████░░░░ 80%
 
-███████████████░░░░░░ 75%  FastAPI
+⚛️ React                  ██████████░░░░░░ 70%
 
-██████████████░░░░░░░ 70%  React
+🧠 Deep Learning          ████████░░░░░░░░ 60%
 
-█████████████░░░░░░░░ 65%  Deep Learning
+☁️ Backend Systems        █████████████░░░ 85%
 ```
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anees-Memon-Hub&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anees-Memon-Hub&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 💻 Most Used Languages
+# 💻 Languages
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anees-Memon-Hub&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anees-Memon-Hub&theme=react-dark"/>
 
-</p>
+</div>
 
 ---
 
-
-
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Anees-Memon-Hub/Anees-Memon-Hub/output/github-contribution-grid-snake.svg"/>
 
-</p>
+</div>
 
 ---
 
 # 🎯 2026 Goals
 
-- 🚀 Build production-quality AI applications
-- 🤖 Learn Deep Learning
-- 📚 Master Machine Learning
-- 🌐 Contribute to Open Source
-- 💼 Land an AI/Software Engineering Internship
-- ✨ Build projects that people actually use
+✨ Build production-ready AI applications
+
+🤝 Contribute to Open Source
+
+🧠 Master Machine Learning
+
+⚛️ Learn Deep Learning
+
+🚀 Build products used by real users
+
+💼 Land an AI / Software Engineering Internship
 
 ---
 
+# 💭 Quote
 
+<div align="center">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
+</div>
 
-<h3 align="center">
+---
 
-⭐ Thanks for visiting my profile! ⭐
+<div align="center">
 
-If you like my projects, consider giving them a ⭐
+### ⭐ Thanks for visiting my profile!
 
-Happy Coding! 🚀
+*"Code. Learn. Build. Repeat."*
 
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4facfe,100:00f2fe"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-````
+</div>
