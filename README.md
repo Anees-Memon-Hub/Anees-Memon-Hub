@@ -1,246 +1,186 @@
-<!-- ===================================================== -->
-<!--                     HEADER                            -->
-<!-- ===================================================== -->
+::: {align="center"}
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,100:06B6D4&text=Anees%20Memon&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>`{=html}
 
-<div align="center">
+# 👋 Hi, I'm Anees Memon
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,100:06B6D4&text=Anees%20Memon&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+### AI Enthusiast • Computer Science Student • Full‑Stack Developer
 
-# 👋 Hi, I'm Anees
+`<img src="https://komarev.com/ghpvc/?username=Anees-Memon-Hub&style=for-the-badge&color=0E75B6"/>`{=html}
 
-### 💻 Computer Science Student • 🤖 AI & Machine Learning Enthusiast • 🚀 Full Stack Developer
+`<img src="https://img.shields.io/github/followers/Anees-Memon-Hub?style=for-the-badge&logo=github&label=Followers"/>`{=html}
+:::
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1200&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+Real-World+Projects;AI+%26+Machine+Learning+Explorer;Full+Stack+Developer;Chrome+Extension+Developer;Learning+Something+New+Every+Day+🚀"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Anees-Memon-Hub&style=for-the-badge&color=0E75B6"/>
-
-<img src="https://img.shields.io/github/followers/Anees-Memon-Hub?style=for-the-badge&logo=github"/>
-
-</div>
-
----
+------------------------------------------------------------------------
 
 # 🚀 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-```python
+``` python
 class Anees:
-
-    location = "Pakistan"
-
-    education = "BS Computer Science"
-
+    role = "Computer Science Student"
     interests = [
         "Artificial Intelligence",
         "Machine Learning",
-        "Backend Development",
-        "Software Engineering",
-        "Chrome Extensions"
+        "Backend Engineering",
+        "Chrome Extensions",
+        "Open Source"
     ]
-
-    motto = "Learn → Build → Improve → Repeat"
+    motto = "Build. Learn. Improve. Repeat."
 ```
 
-💡 I love turning ideas into software.
+I enjoy building practical software that solves real problems. My focus
+is on AI, machine learning, modern backend development, and creating
+polished user experiences.
 
-🛠️ Most of my skills come from building projects from scratch.
-
-🎯 Currently working towards becoming an AI Engineer.
-
----
+------------------------------------------------------------------------
 
 # ⚡ Tech Stack
 
-### 👨‍💻 Languages
-
+```{=html}
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql"/>
+```
+`<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,vite,fastapi,mongodb,mysql,git,github,vscode"/>`{=html}
+```{=html}
 </p>
+```
 
-### 🛠 Frameworks & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,vite,fastapi,mongodb,git,github,vscode"/>
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p align="center">
-
-Scikit-Learn • Pandas • NumPy • Streamlit • TF-IDF • Tesseract OCR
-
-</p>
-
----
+------------------------------------------------------------------------
 
 # 🚀 Featured Projects
 
+```{=html}
 <table>
-
+```
+```{=html}
 <tr>
+```
+```{=html}
+<td width="33%">
+```
+## 🧩 Extractly
 
-<td width="50%">
+A Chrome extension that extracts text from screenshots using OCR.
 
-## 🧩 Extractify
+-   OCR with Tesseract
+-   Clipboard support
+-   Drag & Drop
+-   Copy & Download
 
-Chrome Extension that extracts text from images using OCR.
+**Repository**
 
-**Features**
+https://github.com/Anees-Memon-Hub/Extractly
 
-- 📷 OCR
-- 📋 Clipboard Paste
-- 📂 Drag & Drop
-- 📄 Copy Text
-- 🌍 Multi-language Support
-
+```{=html}
 </td>
-
-<td width="50%">
-
+```
+```{=html}
+<td width="33%">
+```
 ## 💬 ChatterBox
 
-Modern real-time chat application.
+A real-time chat platform powered by FastAPI and MongoDB.
 
-**Features**
+-   JWT Authentication
+-   Socket.IO
+-   Group Chats
+-   Modern UI
 
-- 🔐 JWT Authentication
-- 💬 Real-Time Messaging
-- 👥 Group Chats
-- ⚡ FastAPI Backend
-- ☁️ MongoDB Atlas
+**Repository**
 
+https://github.com/Anees-Memon-Hub/ChatterBox
+
+```{=html}
 </td>
+```
+```{=html}
+<td width="33%">
+```
+## 🧠 Personality Analysis Engine
 
+Machine learning application for emotion and personality prediction.
+
+-   Scikit-learn
+-   TF-IDF
+-   Logistic Regression
+-   Streamlit
+
+**Repository**
+
+https://github.com/Anees-Memon-Hub/personality-analysis-engine
+
+```{=html}
+</td>
+```
+```{=html}
 </tr>
-
-<tr>
-
-<td width="50%">
-
-## 🧠 AI Personality Analysis
-
-Machine Learning project that predicts emotions from text.
-
-**Features**
-
-- 📊 TF-IDF
-- 🤖 Logistic Regression
-- 😊 Emotion Detection
-- 🌐 Streamlit
-
-</td>
-
-<td width="50%">
-
-## 🚀 More Projects
-
-Always building something new.
-
-</td>
-
-</tr>
-
+```
+```{=html}
 </table>
-
----
-
-# 📌 Current Focus
-
-```text
-🤖 Machine Learning        ████████████████░░ 85%
-
-⚡ FastAPI                 ██████████████░░░░ 80%
-
-⚛️ React                  ████████████░░░░░░ 70%
-
-🧠 Deep Learning          ██████████░░░░░░░░ 60%
-
-🚀 Building Projects      ██████████████████ 100%
 ```
 
----
+------------------------------------------------------------------------
 
-# 💻 My Coding Setup
+# 🌱 Currently Learning
 
-```yaml
-OS: Windows 11
+-   🤖 Machine Learning
+-   🧠 Deep Learning
+-   ⚛️ React
+-   ⚡ FastAPI
+-   🏗️ System Design
 
-Editor: VS Code
-
-Languages:
-  - Python
-  - Java
-  - JavaScript
-  - C++
-
-Database:
-  - MongoDB
-  - MySQL
-
-Version Control:
-  - Git
-  - GitHub
-
-Favorite Quote:
-  "Learning never stops."
+``` text
+Machine Learning     ████████████████░░ 85%
+Backend Development  ███████████████░░░ 80%
+React                █████████████░░░░░ 75%
+Deep Learning        ██████████░░░░░░░░ 60%
 ```
 
----
+------------------------------------------------------------------------
+
+# 🐍 Contribution Snake
+
+```{=html}
+<p align="center">
+```
+`<img src="https://raw.githubusercontent.com/Anees-Memon-Hub/Anees-Memon-Hub/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
 
 # 🎯 Goals
 
-- 🚀 Build production-ready AI applications
-- 🤝 Contribute to Open Source
-- 🧠 Learn Deep Learning
-- 📱 Build software people love using
-- 💼 Become an AI / Software Engineer
+-   Build production-ready AI applications
+-   Contribute to open source
+-   Learn advanced deep learning
+-   Create software used by thousands
+-   Earn an AI/Software Engineering role
 
----
+------------------------------------------------------------------------
 
-# 🌱 Currently Exploring
+# 📫 Connect
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 📚 Data Science
-- 🌐 Full Stack Development
-- ⚙️ System Design
-- 🔍 OCR & Computer Vision
-
----
-
-# 📫 Connect With Me
-
+```{=html}
 <p align="center">
+```
+`<a href="https://github.com/Anees-Memon-Hub">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>`{=html}
+`</a>`{=html}
 
-<a href="mailto:memonanees277@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+`<a href="mailto:memonanees277@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
+`</a>`{=html}
 
-<a href="https://github.com/Anees-Memon-Hub">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 💭 Developer Mindset
-
-> **"Every project teaches something new. Every bug makes you a better developer."**
-
----
-
-<div align="center">
-
+::: {align="center"}
 ### ⭐ Thanks for visiting my profile!
 
-If you enjoy my projects, consider giving them a ⭐.
+*"Great software is built one project at a time."*
 
-Happy Coding! 🚀
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,100:06B6D4"/>
-
-</div>
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,100:06B6D4"/>`{=html}
+:::
