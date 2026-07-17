@@ -1,6 +1,6 @@
-<!-- ========================================================= -->
-<!--                        HEADER                             -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                     HEADER                            -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -10,11 +10,11 @@
 
 ### 💻 Computer Science Student • 🤖 AI & Machine Learning Enthusiast • 🚀 Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Real+World+Projects;Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Chrome+Extension+Developer;Learning+Something+New+Everyday+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1200&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+Real-World+Projects;AI+%26+Machine+Learning+Explorer;Full+Stack+Developer;Chrome+Extension+Developer;Learning+Something+New+Every+Day+🚀"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Anees-Memon-Hub&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=Anees-Memon-Hub&style=for-the-badge&color=0E75B6"/>
 
 <img src="https://img.shields.io/github/followers/Anees-Memon-Hub?style=for-the-badge&logo=github"/>
 
@@ -29,6 +29,8 @@
 ```python
 class Anees:
 
+    location = "Pakistan"
+
     education = "BS Computer Science"
 
     interests = [
@@ -39,44 +41,36 @@ class Anees:
         "Chrome Extensions"
     ]
 
-    currently_learning = [
-        "Machine Learning",
-        "Deep Learning",
-        "FastAPI",
-        "React",
-        "System Design"
-    ]
-
     motto = "Learn → Build → Improve → Repeat"
 ```
 
-💡 I enjoy building software that solves real-world problems.
+💡 I love turning ideas into software.
 
-🛠️ I prefer learning by building projects instead of only following tutorials.
+🛠️ Most of my skills come from building projects from scratch.
 
-🎯 My goal is to become an AI Engineer and contribute to impactful software.
+🎯 Currently working towards becoming an AI Engineer.
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql"/>
 </p>
 
-### Frameworks & Tools
+### 🛠 Frameworks & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,vite,fastapi,mongodb,git,github,vscode"/>
 </p>
 
-### AI / ML
+### 🤖 AI & Machine Learning
 
 <p align="center">
 
-Scikit-Learn • Pandas • NumPy • Streamlit • Tesseract OCR • TF-IDF
+Scikit-Learn • Pandas • NumPy • Streamlit • TF-IDF • Tesseract OCR
 
 </p>
 
@@ -84,119 +78,140 @@ Scikit-Learn • Pandas • NumPy • Streamlit • Tesseract OCR • TF-IDF
 
 # 🚀 Featured Projects
 
+<table>
+
+<tr>
+
+<td width="50%">
+
 ## 🧩 Extractify
 
-Chrome Extension that extracts text from screenshots and images using OCR.
+Chrome Extension that extracts text from images using OCR.
 
-**Highlights**
+**Features**
 
-- 📷 OCR Extraction
+- 📷 OCR
 - 📋 Clipboard Paste
 - 📂 Drag & Drop
-- ✏️ Editable Output
+- 📄 Copy Text
 - 🌍 Multi-language Support
-- 📄 Copy & Download
 
----
+</td>
+
+<td width="50%">
 
 ## 💬 ChatterBox
 
-Real-time chat application built with FastAPI and React.
+Modern real-time chat application.
 
-**Highlights**
+**Features**
 
 - 🔐 JWT Authentication
 - 💬 Real-Time Messaging
 - 👥 Group Chats
-- 📊 Dashboard
-- 🌐 Socket.IO
+- ⚡ FastAPI Backend
 - ☁️ MongoDB Atlas
 
----
+</td>
 
-## 🧠 AI Personality Analysis Engine
+</tr>
 
-Machine Learning application for predicting emotions from text.
+<tr>
 
-**Highlights**
+<td width="50%">
 
-- 📊 TF-IDF Vectorization
+## 🧠 AI Personality Analysis
+
+Machine Learning project that predicts emotions from text.
+
+**Features**
+
+- 📊 TF-IDF
 - 🤖 Logistic Regression
-- 😊 Emotion Prediction
-- 🌐 Streamlit Interface
+- 😊 Emotion Detection
+- 🌐 Streamlit
+
+</td>
+
+<td width="50%">
+
+## 🚀 More Projects
+
+Always building something new.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🌱 Currently Learning
+# 📌 Current Focus
 
 ```text
-🤖 Machine Learning      ███████████████░░ 85%
+🤖 Machine Learning        ████████████████░░ 85%
 
-⚡ FastAPI               █████████████░░░░ 80%
+⚡ FastAPI                 ██████████████░░░░ 80%
 
-⚛️ React                ███████████░░░░░░ 70%
+⚛️ React                  ████████████░░░░░░ 70%
 
-🧠 Deep Learning        █████████░░░░░░░░ 60%
+🧠 Deep Learning          ██████████░░░░░░░░ 60%
 
-☁️ Backend Systems      ███████████████░░ 85%
+🚀 Building Projects      ██████████████████ 100%
 ```
 
 ---
 
-# 📊 GitHub Analytics
+# 💻 My Coding Setup
 
-<div align="center">
+```yaml
+OS: Windows 11
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anees-Memon-Hub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+Editor: VS Code
 
-<img height="170" src="https://streak-stats.demolab.com?user=Anees-Memon-Hub&theme=tokyonight&hide_border=true"/>
+Languages:
+  - Python
+  - Java
+  - JavaScript
+  - C++
 
-</div>
+Database:
+  - MongoDB
+  - MySQL
 
----
+Version Control:
+  - Git
+  - GitHub
 
-# 💻 Most Used Languages
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anees-Memon-Hub&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anees-Memon-Hub&theme=tokyo-night"/>
-
-</div>
+Favorite Quote:
+  "Learning never stops."
+```
 
 ---
 
-# 🐍 Contribution Snake
+# 🎯 Goals
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anees-Memon-Hub/Anees-Memon-Hub/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build production-quality AI applications
+- 🚀 Build production-ready AI applications
 - 🤝 Contribute to Open Source
-- 🧠 Master Machine Learning
-- ⚛️ Learn Deep Learning
-- 🌍 Build software that helps people
-- 💼 Land an AI / Software Engineering Internship
+- 🧠 Learn Deep Learning
+- 📱 Build software people love using
+- 💼 Become an AI / Software Engineer
 
 ---
 
-# 📫 Connect
+# 🌱 Currently Exploring
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📚 Data Science
+- 🌐 Full Stack Development
+- ⚙️ System Design
+- 🔍 OCR & Computer Vision
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -212,21 +227,19 @@ Machine Learning application for predicting emotions from text.
 
 ---
 
-# 💭 Developer Quote
+# 💭 Developer Mindset
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
+> **"Every project teaches something new. Every bug makes you a better developer."**
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for stopping by!
+### ⭐ Thanks for visiting my profile!
 
-*"Building today what I'll be proud of tomorrow."*
+If you enjoy my projects, consider giving them a ⭐.
+
+Happy Coding! 🚀
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,100:06B6D4"/>
 
