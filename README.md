@@ -49,7 +49,7 @@
 
 ### 👤 About This Node
 
-I'm a **Computer Science student** and **full-stack / AI engineer in training**, wiring together backend systems, machine learning models, and clean user interfaces. I like software that actually *does something useful* — not just demos.
+I'm a **Computer Science student** and **full-stack / AI Enthusiast in training**, wiring together backend systems, machine learning models, and clean user interfaces. I like software that actually *does something useful* — not just demos.
 
 My current orbit: **artificial intelligence**, **machine learning**, **backend engineering**, and **developer tooling** like Chrome extensions.
 
